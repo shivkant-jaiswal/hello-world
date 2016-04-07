@@ -22,7 +22,7 @@ public:
 
 // Overrides
 public:
-	virtual BOOL InitInstance();
+	virtual BOOL InitInstance(); 
 
 // Implementation
 
