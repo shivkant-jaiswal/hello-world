@@ -34,6 +34,7 @@ protected:
 
 CAboutDlg::CAboutDlg() : CDialogEx(IDD_ABOUTBOX)
 {
+//bla bla bla
 }
 
 void CAboutDlg::DoDataExchange(CDataExchange* pDX)
